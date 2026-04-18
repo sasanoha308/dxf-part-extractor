@@ -1,0 +1,2 @@
+# dxf-part-extractor
+DXFファイルから部品情報を抽出してExcelに出力するPythonスクリプト
